@@ -1,10 +1,10 @@
----
-title: Qwen Qwen Image
+
+title: ImagePulse
 emoji: 🖼
 colorFrom: purple
 colorTo: red
 sdk: gradio
-sdk_version: 5.44.0
+sdk_version: 3.12.0
 app_file: app.py
 pinned: false
 hf_oauth: true
